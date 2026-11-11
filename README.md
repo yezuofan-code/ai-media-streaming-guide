@@ -11,16 +11,16 @@
 
 | 文章 | 分类 |
 |---|---|
-| [2026《黑鸽》第二季 6 集一次放出：Netflix 4K 解锁与合租保姆级攻略](https://ai.fanqiangdao.com/streaming/black-doves-season-2/) | 流媒体 |
-| [2026 Claude Fable 5.2 上线：输出快 30%、API 降价 20%，国内用上的全链路](https://ai.fanqiangdao.com/hot/claude-fable-5-2/) | AI 热点 |
-| [Gemini Omni 1.2 Flash 实测：多模态实时交互到底多强](https://ai.fanqiangdao.com/hot/gemini-omni-1-2-flash/) | AI 热点 |
-| [《再婚皇后》Disney+ 追剧指南：更新时间与观看方案](https://ai.fanqiangdao.com/streaming/remarried-empress/) | 流媒体 |
-| [ChatGPT Plus 订阅全攻略](https://ai.fanqiangdao.com/solutions/chatgpt-plus/) | AI 订阅 |
-| [Claude Pro 订阅全攻略](https://ai.fanqiangdao.com/solutions/claude-pro/) | AI 订阅 |
-| [Gemini Advanced 订阅全攻略](https://ai.fanqiangdao.com/solutions/gemini-advanced/) | AI 订阅 |
-| [Netflix 合租与 4K 解锁方案](https://ai.fanqiangdao.com/solutions/netflix/) | 流媒体 |
-| [Disney+ + Spotify 捆绑套餐指南](https://ai.fanqiangdao.com/solutions/disney-spotify/) | 流媒体 |
-| [YouTube Premium 订阅指南](https://ai.fanqiangdao.com/solutions/youtube-premium/) | 流媒体 |
+| [2026《黑鸽》第二季 6 集一次放出：Netflix 4K 解锁与合租保姆级攻略](articles/streaming/black-doves-season-2.md) | 流媒体 |
+| [2026 Claude Fable 5.2 上线：输出快 30%、API 降价 20%，国内用上的全链路](articles/hot/claude-fable-5-2.md) | AI 热点 |
+| [Gemini Omni 1.2 Flash 实测：多模态实时交互到底多强](articles/hot/gemini-omni-1-2-flash.md) | AI 热点 |
+| [《再婚皇后》Disney+ 追剧指南：更新时间与观看方案](articles/streaming/remarried-empress.md) | 流媒体 |
+| [ChatGPT Plus 订阅全攻略](articles/solutions/chatgpt-plus.md) | AI 订阅 |
+| [Claude Pro 订阅全攻略](articles/solutions/claude-pro.md) | AI 订阅 |
+| [Gemini Advanced 订阅全攻略](articles/solutions/gemini-advanced.md) | AI 订阅 |
+| [Netflix 合租与 4K 解锁方案](articles/solutions/netflix.md) | 流媒体 |
+| [Disney+ + Spotify 捆绑套餐指南](articles/solutions/disney-spotify.md) | 流媒体 |
+| [YouTube Premium 订阅指南](articles/solutions/youtube-premium.md) | 流媒体 |
 
 ## 🔄 更新频率
 
