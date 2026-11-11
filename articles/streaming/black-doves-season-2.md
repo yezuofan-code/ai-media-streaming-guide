@@ -148,6 +148,6 @@ Netflix 不向中国大陆提供服务，这是第一道墙，绕不过去。第
 
 会员侧，怕售后没人管的选[奈飞小铺](https://tochick.xyz/61)（haiwan 打 9 折），要赔付兜底的选[银河录像局](https://tochick.xyz/60)，想一个购物车全配齐的走[飞行派](https://tochick.xyz/62)或[环球巴士](https://tochick.xyz/64)。
 
-站内还有几篇可以对照着看：[Netflix 合租保姆级指南](/solutions/netflix/)把车位机制和代理报错拆得更细，[《再婚皇后》追剧攻略](/streaming/remarried-empress/)是另一套地区解锁逻辑，机场怎么选可以看[聚合页](/proxy/)。
+站内还有几篇可以对照着看：[Netflix 合租保姆级指南](https://ai.fanqiangdao.com/solutions/netflix/)把车位机制和代理报错拆得更细，[《再婚皇后》追剧攻略](https://ai.fanqiangdao.com/streaming/remarried-empress/)是另一套地区解锁逻辑，机场怎么选可以看[聚合页](https://ai.fanqiangdao.com/proxy/)。
 
 剧已经全在架上了，今晚把线路和车位定下来，这个周末就能一次刷完。
