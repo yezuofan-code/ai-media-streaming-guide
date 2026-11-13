@@ -48,11 +48,11 @@ IP 这一环，两类问题最常见。一是机房 IP 段被标记，播放前�
 
 线路侧，我常年挂的是这两家，分工很清楚：
 
-[一枝红杏](https://tochick.xyz/16?site=12hao)走全球多线路，港日新美都覆盖，1000 Mbps 带宽，Trojan 协议，年付 99 元的 Lite 档每月 100G、限 5 台设备——追剧的流量消耗其实很低，100G 一个月够一家人看。设备多、要一步到位的看 Pro 档，年付 499 元、每月 500G、不限设备数。
+[一枝红杏](https://haiwanlink.com/16?site=12hao)走全球多线路，港日新美都覆盖，1000 Mbps 带宽，Trojan 协议，年付 99 元的 Lite 档每月 100G、限 5 台设备——追剧的流量消耗其实很低，100G 一个月够一家人看。设备多、要一步到位的看 Pro 档，年付 499 元、每月 500G、不限设备数。
 
-更看重出口质量的，走 [SS-ID](https://tochick.xyz/19?site=12hao)的 IEPL 专线：1000 Mbps，5 台设备同时在线，月付 20 元 100G 起步。它套餐里明确写了 Netflix、Disney、ChatGPT、TikTok 等流媒体解锁保证——但要说清，带这句承诺的是"新疆优化"那两档，页面写明仅限新疆和阻断严重地区使用，其他地区别买，正常地区选普通流量档就行。
+更看重出口质量的，走 [SS-ID](https://haiwanlink.com/19?site=12hao)的 IEPL 专线：1000 Mbps，5 台设备同时在线，月付 20 元 100G 起步。它套餐里明确写了 Netflix、Disney、ChatGPT、TikTok 等流媒体解锁保证——但要说清，带这句承诺的是"新疆优化"那两档，页面写明仅限新疆和阻断严重地区使用，其他地区别买，正常地区选普通流量档就行。
 
-预算优先、想先按月试水的，[瑶瑶领先](https://tochick.xyz/18?site=12hao)9.9 元一个月 384G，全线路"实时在用人数"透明展示，挑人少的港区或日区线路挂着，一部剧追完花不了几块钱。
+预算优先、想先按月试水的，[瑶瑶领先](https://haiwanlink.com/18?site=12hao)9.9 元一个月 384G，全线路"实时在用人数"透明展示，挑人少的港区或日区线路挂着，一部剧追完花不了几块钱。
 
 挂好节点先验收，再谈买会员：打开 disneyplus.com，登录，搜索"再婚皇后"，能搜到、能播放、片库完整（顺手看一部当地本土剧在不在），三条都过才算线路过关。搜不到、只给一部分内容，先换线路，别怀疑账号。
 
@@ -77,19 +77,19 @@ Disney+ 官方订阅按地区定价，港区、台区、日区、美区各不相
 
 **奈飞小铺**只做流媒体这一件事，车位最多、下单自动发卡，售后能重置密码，深夜掉线不用干等人工。优惠码 haiwan 直接打 9 折，四家里唯一确定的固定折扣。
 
-[奈飞小铺官方入口（优惠码 haiwan 打 9 折）](https://tochick.xyz/61)
+[奈飞小铺官方入口（优惠码 haiwan 打 9 折）](https://haiwanlink.com/61)
 
 **银河录像局**的卖点是翻车包赔、独立子账户、支持同户验证。Disney+ 走它家的合租，拿到的是自己的入口，不用跟人传一串账号密码。结算时用 haiwan，折扣随产品不同，具体幅度看结算页实示。
 
-[银河录像局官方入口（优惠码 haiwan）](https://tochick.xyz/60)
+[银河录像局官方入口（优惠码 haiwan）](https://haiwanlink.com/60)
 
 **飞行派**是一站式订阅，流媒体和各类会员能一个购物车配齐，客服通道统一，懒得东拼西凑的人省事。它家 Netflix 报 ¥35/月（截至 2026-11-09），Disney+ 以平台实时标价为准。
 
-[飞行派官方入口](https://tochick.xyz/62)
+[飞行派官方入口](https://haiwanlink.com/62)
 
 **环球巴士**的主招牌是 YouTube 家庭组年付，Netflix 4K 也有售，Disney+ 以平台实时标价为准，车头口碑稳。想把视频和音乐一次配齐的，可以一起看。
 
-[环球巴士官方入口](https://tochick.xyz/64)
+[环球巴士官方入口](https://haiwanlink.com/64)
 
 下单流程浓缩成五步：
 
@@ -142,9 +142,9 @@ Disney+ 官方订阅按地区定价，港区、台区、日区、美区各不相
 
 回头看这条链路其实很短。先用一条港区或日区的原生线路，把 Disney+ 的登录和播放跑通；再按预算选官方订阅、合租车位还是代充，把第 5、6 集接上。
 
-线路侧，要年付锁价的看[一枝红杏](https://tochick.xyz/16?site=12hao)，要专线出口质量的看 [SS-ID](https://tochick.xyz/19?site=12hao)，想先按月试水的看[瑶瑶领先](https://tochick.xyz/18?site=12hao)。三家都是 12hao 主推，入口带归因，先月付验证再年付是我一贯的建议。
+线路侧，要年付锁价的看[一枝红杏](https://haiwanlink.com/16?site=12hao)，要专线出口质量的看 [SS-ID](https://haiwanlink.com/19?site=12hao)，想先按月试水的看[瑶瑶领先](https://haiwanlink.com/18?site=12hao)。三家都是 12hao 主推，入口带归因，先月付验证再年付是我一贯的建议。
 
-会员侧，怕售后没人管的选[奈飞小铺](https://tochick.xyz/61)（haiwan 打 9 折），要赔付条款兜底的选[银河录像局](https://tochick.xyz/60)，想一个购物车全配齐的走[飞行派](https://tochick.xyz/62)或[环球巴士](https://tochick.xyz/64)。
+会员侧，怕售后没人管的选[奈飞小铺](https://haiwanlink.com/61)（haiwan 打 9 折），要赔付条款兜底的选[银河录像局](https://haiwanlink.com/60)，想一个购物车全配齐的走[飞行派](https://haiwanlink.com/62)或[环球巴士](https://haiwanlink.com/64)。
 
 站内还有两篇可以对照着看：[Disney+ 和 Spotify 合租开通指南](https://ai.fanqiangdao.com/solutions/disney-spotify/)把 profile 机制拆得更细，[Netflix 合租保姆级指南](https://ai.fanqiangdao.com/solutions/netflix/)讲的是另一套风控逻辑，两篇一起看能把差别吃透。机场怎么选，[聚合页](https://ai.fanqiangdao.com/proxy/)按线路类型和预算排好了。
 

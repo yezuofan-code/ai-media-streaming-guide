@@ -69,13 +69,13 @@ Gemini 的地区口径跟 ChatGPT 那套不一样，但同样硬。三条经验�
 
 预算紧的按这个顺序试：
 
-[一枝红杏](https://tochick.xyz/16?site=12hao)走年付锁价，Trojan Lite 年付 99 元、每月 100G、限 5 台设备，1000 Mbps，全球多线路可选。文本对话和代码补全的流量消耗很低，一天几小时也吃不满 100G。设备多、想一步到位看 Trojan Pro，年付 499 元、每月 500G、不限设备数。
+[一枝红杏](https://haiwanlink.com/16?site=12hao)走年付锁价，Trojan Lite 年付 99 元、每月 100G、限 5 台设备，1000 Mbps，全球多线路可选。文本对话和代码补全的流量消耗很低，一天几小时也吃不满 100G。设备多、想一步到位看 Trojan Pro，年付 499 元、每月 500G、不限设备数。
 
-对出口质量有要求的看 [SS-ID](https://tochick.xyz/19?site=12hao)，IEPL 专线加速，1000 Mbps，套餐页明确标了 ChatGPT 等 AI 服务的解锁保证，100G 月付 20 元起。专线出口的 IP 质量通常比普通中转稳，对这类按 IP 归属做判断的服务，先买一个月验证比一上来年付稳妥。
+对出口质量有要求的看 [SS-ID](https://haiwanlink.com/19?site=12hao)，IEPL 专线加速，1000 Mbps，套餐页明确标了 ChatGPT 等 AI 服务的解锁保证，100G 月付 20 元起。专线出口的 IP 质量通常比普通中转稳，对这类按 IP 归属做判断的服务，先买一个月验证比一上来年付稳妥。
 
-只想花一杯奶茶钱先确认能不能连上的，[瑶瑶领先](https://tochick.xyz/18?site=12hao) 月付 9.9 元给 384G、3 台设备，线路的实时在用人数是公开的，挑人少的线固定挂着就行。
+只想花一杯奶茶钱先确认能不能连上的，[瑶瑶领先](https://haiwanlink.com/18?site=12hao) 月付 9.9 元给 384G、3 台设备，线路的实时在用人数是公开的，挑人少的线固定挂着就行。
 
-再往上一档是 [扬帆云](https://tochick.xyz/59?site=12hao)，LV2 29.99 元 200GB、LV3 39.99 元 400GB 起走部分 IEPL，LV4 49.99 元 700GB 全专线，适合白天要开视频会、晚上还要跑 agent 的人。
+再往上一档是 [扬帆云](https://haiwanlink.com/59?site=12hao)，LV2 29.99 元 200GB、LV3 39.99 元 400GB 起走部分 IEPL，LV4 49.99 元 700GB 全专线，适合白天要开视频会、晚上还要跑 agent 的人。
 
 验收标准很具体：挂上节点，打开 Gemini 能正常登录、能选中模型、不弹地区提示，再谈付款。连登录都过不去，先换线路，别急着怀疑账号。
 
@@ -92,9 +92,9 @@ Gemini 的地区口径跟 ChatGPT 那套不一样，但同样硬。三条经验�
 
 这里有个必须说清的硬事实：飞行派**没有 Gemini 车位**，它家的 AI 线是 ChatGPT 和 Claude，Gemini 这条想走代充只有银河录像局。反过来，银河录像局也没有 Claude Pro 订阅车位，跟 Claude 沾边的只有 Claude Code 的 API 额度包。两边各有各的货，不要拿一家的价目去套另一家。
 
-[银河录像局官方入口（优惠码 haiwan）](https://tochick.xyz/60)银河录像局那条「Gemini Advanced」档位，官网商品名写的是 GeminiPro，按 AI Pro 这一档理解基本不会错。¥44.1/月是券后月付价，结算时填优惠码 haiwan，最终折扣随产品不同，以结算页实示为准。独立子账户这一项在这种场景里挺值钱：你拿到的是自己的登录入口，不是几个人传一串账号密码，IP 与登录轨迹混在一起的概率低很多。
+[银河录像局官方入口（优惠码 haiwan）](https://haiwanlink.com/60)银河录像局那条「Gemini Advanced」档位，官网商品名写的是 GeminiPro，按 AI Pro 这一档理解基本不会错。¥44.1/月是券后月付价，结算时填优惠码 haiwan，最终折扣随产品不同，以结算页实示为准。独立子账户这一项在这种场景里挺值钱：你拿到的是自己的登录入口，不是几个人传一串账号密码，IP 与登录轨迹混在一起的概率低很多。
 
-[飞行派官方入口](https://tochick.xyz/62)飞行派这边更适合「顺手配齐」的人。它没有 Gemini，但 ChatGPT 拼车 ¥49.99/月、Claude 合租 ¥169/月都是明码标价，一次下单把几个模型的预算放一个购物车，售后也只找一家。
+[飞行派官方入口](https://haiwanlink.com/62)飞行派这边更适合「顺手配齐」的人。它没有 Gemini，但 ChatGPT 拼车 ¥49.99/月、Claude 合租 ¥169/月都是明码标价，一次下单把几个模型的预算放一个购物车，售后也只找一家。
 
 如果你的用法是跑脚本、批量处理，API 路线往往比订阅划算。银河那个 ¥19.5 的 20 美元额度包，配合 Hydrogen 的免费层先做验证：免费层限速但额度不要钱，够你把 prompt 调到满意；调通了再充额度跑量。有一条要提前想清楚——官方价页写明免费层的调用结果会用于改进产品，付费层不会。客户数据、未公开的代码，别在免费层试。
 
@@ -139,7 +139,7 @@ AI Plus 起就能在 Gemini 应用里手动选 Hydrogen。要用 Antigravity，�
 
 先定档位，再配网络，最后才付钱。只在 App 里用、要手动选 Hydrogen 的，AI Plus 就够；要进 Antigravity 跑 agent 的，直接 AI Pro；要把执行层批量换成 Hydrogen 的，先走 API 免费层验证，通了再充额度。这是我一贯的顺序，因为网络和账号的问题在前两步暴露，比付完钱再排查省事得多。
 
-网络这侧，年付锁价看[一枝红杏](https://tochick.xyz/16?site=12hao)，要专线看 [SS-ID](https://tochick.xyz/19?site=12hao)，小额验证看[瑶瑶领先](https://tochick.xyz/18?site=12hao)，要全专线又常开会的看[扬帆云](https://tochick.xyz/59?site=12hao)，四家都带 12hao 归因入口，先月付再年付是我的老规矩。会员这侧，[银河录像局](https://tochick.xyz/60)的 Gemini 档 ¥44.1/月，优惠码 haiwan，其他品类以平台实时标价为准；[飞行派](https://tochick.xyz/62)没有 Gemini，要配 ChatGPT 或 Claude 再从它走。
+网络这侧，年付锁价看[一枝红杏](https://haiwanlink.com/16?site=12hao)，要专线看 [SS-ID](https://haiwanlink.com/19?site=12hao)，小额验证看[瑶瑶领先](https://haiwanlink.com/18?site=12hao)，要全专线又常开会的看[扬帆云](https://haiwanlink.com/59?site=12hao)，四家都带 12hao 归因入口，先月付再年付是我的老规矩。会员这侧，[银河录像局](https://haiwanlink.com/60)的 Gemini 档 ¥44.1/月，优惠码 haiwan，其他品类以平台实时标价为准；[飞行派](https://haiwanlink.com/62)没有 Gemini，要配 ChatGPT 或 Claude 再从它走。
 
 站内还有几篇可以接着看：[Gemini Advanced 开通教程](https://ai.fanqiangdao.com/solutions/gemini-advanced/)讲的是 Google One 那条老订阅线的支付细节，[Gemini Omni 1.2 Flash](https://ai.fanqiangdao.com/hot/gemini-omni-1-2-flash/) 是上一代多模态模型的用法，[ChatGPT Plus 国内订阅](https://ai.fanqiangdao.com/solutions/chatgpt-plus/)和 [Claude Pro 指南](https://ai.fanqiangdao.com/solutions/claude-pro/)适合做横向比较，[机场推荐聚合页](https://ai.fanqiangdao.com/proxy/)按线路类型和预算排好了。
 
