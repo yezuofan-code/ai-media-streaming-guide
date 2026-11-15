@@ -11,6 +11,9 @@
 
 | 文章 | 分类 |
 |---|---|
+| [2026 ChatGPT 钱包上线：Pro 才有的新入口，国内用户卡在哪一步](articles/hot/chatgpt-wallet.md) | AI 热点 |
+| [2026 Gemini 4 Hydrogen 国内怎么用上：免费额度怎么吃、三档订阅谁有手动选择权](articles/hot/gemini-4-hydrogen.md) | AI 热点 |
+| [2026 Claude 支持地区新规 11/12 生效：大陆用户的三条替代路线与年费止损清单](articles/hot/claude-supported-regions-policy.md) | AI 热点 |
 | [2026《黑鸽》第二季 6 集一次放出：Netflix 4K 解锁与合租保姆级攻略](articles/streaming/black-doves-season-2.md) | 流媒体 |
 | [2026 Claude Fable 5.2 上线：输出快 30%、API 降价 20%，国内用上的全链路](articles/hot/claude-fable-5-2.md) | AI 热点 |
 | [Gemini Omni 1.2 Flash 实测：多模态实时交互到底多强](articles/hot/gemini-omni-1-2-flash.md) | AI 热点 |
