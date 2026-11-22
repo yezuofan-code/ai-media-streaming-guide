@@ -11,6 +11,13 @@
 
 | 文章 | 分类 |
 |---|---|
+| [2026 ChatGPT Space 下放 Plus：免费号打不开别人分享的页面，Plus 该怎么开](articles/hot/chatgpt-space.md) | AI 热点 |
+| [2026 Gemini 电脑操控上线：Mac 版替你点鼠标，三档订阅与国内开通路线](articles/hot/gemini-computer-use-mac.md) | AI 热点 |
+| [2026《罪蓝之路》4K 追剧攻略：8 集一次放全，流量预算、韩日双区解锁与 Netflix 车位比价](articles/streaming/the-blue-road.md) | 流媒体 |
+| [2026 GPT-6.2 Astra 国内怎么用上：聊天框里没有，Work/Codex 才有，Pro 三档差在 Ultrafast](articles/hot/gpt-6-2-astra.md) | AI 热点 |
+| [2026 Gemini Notebook 一句话生成互动网站：免费额度怎么算、三档订阅差在哪](articles/hot/gemini-notebook.md) | AI 热点 |
+| [2026《魔鬼的计谋3：死亡重启》追更攻略：14 集周更节奏、4K 流量预算与 Netflix 车位比价](articles/streaming/the-devils-plan-3.md) | 流媒体 |
+| [2026《Doctor X：白色黑手党时代》补课攻略：12 集 4K 追完、合租车位与四平台比价](articles/streaming/doctor-x-mafia-in-white.md) | 流媒体 |
 | [2026 ChatGPT 钱包上线：Pro 才有的新入口，国内用户卡在哪一步](articles/hot/chatgpt-wallet.md) | AI 热点 |
 | [2026 Gemini 4 Hydrogen 国内怎么用上：免费额度怎么吃、三档订阅谁有手动选择权](articles/hot/gemini-4-hydrogen.md) | AI 热点 |
 | [2026 Claude 支持地区新规 11/12 生效：大陆用户的三条替代路线与年费止损清单](articles/hot/claude-supported-regions-policy.md) | AI 热点 |
